@@ -1,0 +1,14 @@
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\bin\Debug\net8.0\ExercicioResolvido_04.exe
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\bin\Debug\net8.0\ExercicioResolvido_04.deps.json
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\bin\Debug\net8.0\ExercicioResolvido_04.runtimeconfig.json
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\bin\Debug\net8.0\ExercicioResolvido_04.dll
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\bin\Debug\net8.0\ExercicioResolvido_04.pdb
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\obj\Debug\net8.0\ExercicioResolvido_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\obj\Debug\net8.0\ExercicioResolvido_04.AssemblyInfoInputs.cache
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\obj\Debug\net8.0\ExercicioResolvido_04.AssemblyInfo.cs
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\obj\Debug\net8.0\ExercicioResolvido_04.csproj.CoreCompileInputs.cache
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\obj\Debug\net8.0\ExercicioResolvido_04.dll
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\obj\Debug\net8.0\refint\ExercicioResolvido_04.dll
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\obj\Debug\net8.0\ExercicioResolvido_04.pdb
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\obj\Debug\net8.0\ExercicioResolvido_04.genruntimeconfig.cache
+D:\CURSO\DS\Exercicios\Bateria de Exercícios Aulas 02, 03 e 04\Aula 02\ExercicioResolvido_04\obj\Debug\net8.0\ref\ExercicioResolvido_04.dll
