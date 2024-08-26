@@ -1,0 +1,14 @@
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\obj\Debug\net8.0\ExercicioResolvido_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\obj\Debug\net8.0\ExercicioResolvido_05.AssemblyInfoInputs.cache
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\obj\Debug\net8.0\ExercicioResolvido_05.AssemblyInfo.cs
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\obj\Debug\net8.0\ExercicioResolvido_05.csproj.CoreCompileInputs.cache
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\bin\Debug\net8.0\ExercicioResolvido_05.exe
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\bin\Debug\net8.0\ExercicioResolvido_05.deps.json
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\bin\Debug\net8.0\ExercicioResolvido_05.runtimeconfig.json
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\bin\Debug\net8.0\ExercicioResolvido_05.dll
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\bin\Debug\net8.0\ExercicioResolvido_05.pdb
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\obj\Debug\net8.0\ExercicioResolvido_05.dll
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\obj\Debug\net8.0\refint\ExercicioResolvido_05.dll
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\obj\Debug\net8.0\ExercicioResolvido_05.pdb
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\obj\Debug\net8.0\ExercicioResolvido_05.genruntimeconfig.cache
+D:\CURSO\DS\Exercicios\ExercicioResolvido_05\obj\Debug\net8.0\ref\ExercicioResolvido_05.dll
